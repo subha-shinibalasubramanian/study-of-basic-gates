@@ -63,7 +63,7 @@ Y= A⊕B
 
 
 **PROGRAM**
-AND GATE
+# AND GATE
 ```
 module and12(a,b,c); 
     input a; 
