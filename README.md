@@ -92,7 +92,7 @@ endmodule
 
 **PROGRAM**
 ```
-module or12(a,b,d); 
+module orgate(a,b,d); 
     input a; 
     input b; 
     output d; 
@@ -104,7 +104,7 @@ endmodule
 
 **PROGRAM**
 ```
-module not12(a,g); 
+module notgate(a,g); 
     input a; 
     output g; 
     assign g = ~a; 
@@ -115,7 +115,7 @@ endmodule
 
 **PROGRAM**
 ```
-module nand12(a,b,e);  
+module nandgate(a,b,e);  
 input a;  
 input b;  
 output e; 
@@ -126,7 +126,7 @@ endmodule
 
 **PROGRAM**
 ```
-module nor12(a,b,f); 
+module norgate(a,b,f); 
  input a; 
  input b; 
  output f;
@@ -138,7 +138,7 @@ module nor12(a,b,f);
 
 **PROGRAM**
 ```
-module xor12(a,b,h); 
+module xorgate(a,b,h); 
  input a; 
 input b; 
 output h; 
@@ -149,7 +149,7 @@ endmodule
 
 **PROGRAM**
 ```
-module xnor12(a,b,i);  
+module xnorgate(a,b,i);  
 input a; 
 input b; 
 output i; 
