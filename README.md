@@ -100,6 +100,14 @@ module orgate(a,b,d);
 endmodule 
 ```
 
+**Logic symbol & Truthtable**
+
+**RTL realization Output:**
+
+
+**RTL** 
+![Screenshot 2024-04-03 203127](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/e4c2528d-b615-49a1-8c0d-eae421b8adcc)
+
 ## NOT GATE
 
 **PROGRAM**
@@ -110,6 +118,12 @@ module notgate(a,g);
     assign g = ~a; 
 endmodule  
 ```
+
+**Logic symbol & Truthtable**
+
+**RTL realization Output:** 
+
+**RTL**
 
 ## NAND GATE
 
@@ -122,6 +136,13 @@ output e;
 assign e = ~(a & b);  
 endmodule
 ```
+
+**Logic symbol & Truthtable**
+
+**RTL realization Output:** 
+
+**RTL**
+
 ## NOR GATE
 
 **PROGRAM**
@@ -133,6 +154,11 @@ module norgate(a,b,f);
  assign f = ~(a | b);
  endmodule 
 ```
+**Logic symbol & Truthtable**
+
+**RTL realization Output:** 
+
+**RTL**
 
 ## EX-OR GATE 
 
@@ -145,6 +171,12 @@ output h;
 assign h = a^ b; 
 endmodule
 ```
+**Logic symbol & Truthtable**
+
+**RTL realization Output:** 
+
+**RTL**
+
 ## EX-NOR
 
 **PROGRAM**
@@ -156,6 +188,12 @@ output i;
 assign i = ~(a ^ b); 
 endmodule 
 ```
+**Logic symbol & Truthtable**
+
+**RTL realization Output:** 
+
+**RTL**
+
 **Result:**
 
 
