@@ -64,8 +64,12 @@ Y= A⊕B
 
 **PROGRAM**
 
-**AND GATE**
+**NAME : SUBHASHINI.B**
+**REGISTER NUMBER : 212223040211**
 
+## AND GATE
+
+**PROGRAM**
 ```
 module and12(a,b,c); 
     input a; 
@@ -74,9 +78,6 @@ module and12(a,b,c);
     assign c = a & b; 
 endmodule 
 ```
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
 
@@ -87,6 +88,74 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **RTL**
 ![EX-1 AND](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/ff9b3046-63ed-449d-bba6-e1a0cff0279b)
 
+## OR GATE
+
+**PROGRAM**
+```
+module or12(a,b,d); 
+    input a; 
+    input b; 
+    output d; 
+    assign d = a | b; 
+endmodule 
+```
+
+## NOT GATE
+
+**PROGRAM**
+```
+module not12(a,g); 
+    input a; 
+    output g; 
+    assign g = ~a; 
+endmodule  
+```
+
+## NAND GATE
+
+**PROGRAM**
+```
+module nand12(a,b,e);  
+input a;  
+input b;  
+output e; 
+assign e = ~(a & b);  
+endmodule
+```
+## NOR GATE
+
+**PROGRAM**
+```
+module nor12(a,b,f); 
+ input a; 
+ input b; 
+ output f;
+ assign f = ~(a | b);
+ endmodule 
+```
+
+## EX-OR GATE 
+
+**PROGRAM**
+```
+module xor12(a,b,h); 
+ input a; 
+input b; 
+output h; 
+assign h = a^ b; 
+endmodule
+```
+## EX-NOR
+
+**PROGRAM**
+```
+module xnor12(a,b,i);  
+input a; 
+input b; 
+output i; 
+assign i = ~(a ^ b); 
+endmodule 
+```
 **Result:**
 
 
