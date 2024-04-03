@@ -103,6 +103,7 @@ endmodule
 **Logic symbol & Truthtable**
 
 **RTL realization Output:**
+![Screenshot 2024-04-03 203536](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/18e815c2-415d-48a5-881e-a4073c55509d)
 
 
 **RTL** 
