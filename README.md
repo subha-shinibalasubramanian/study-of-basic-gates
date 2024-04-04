@@ -250,7 +250,7 @@ endmodule
 
 
 
-**Result:**
+**Result:**  
 Thus,truth table of logic gates in Quartus II using Verilog programming is executed successfully and verified 
 
 
