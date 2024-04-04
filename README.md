@@ -225,6 +225,9 @@ endmodule
 
 **RTL realization Output:** 
 
+![Screenshot 2024-04-03 211930](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/b87a09f9-a913-4428-bcb4-8a1d92176656)
+
+
 
 **Result:**
 
