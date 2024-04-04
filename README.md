@@ -82,10 +82,12 @@ endmodule
 **Logic symbol & Truthtable**
 
 **RTL realization Output:** 
+
 ![EX-1 And gates](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/e6d8cd84-a6f9-494a-8dbe-14f5232a24b1)
 
 
 **RTL**
+
 ![EX-1 AND](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/ff9b3046-63ed-449d-bba6-e1a0cff0279b)
 
 ## OR GATE
@@ -103,10 +105,12 @@ endmodule
 **Logic symbol & Truthtable**
 
 **RTL realization Output:**
+
 ![Screenshot 2024-04-03 203536](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/18e815c2-415d-48a5-881e-a4073c55509d)
 
 
 **RTL** 
+
 ![Screenshot 2024-04-03 203127](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/e4c2528d-b615-49a1-8c0d-eae421b8adcc)
 
 ## NOT GATE
@@ -123,10 +127,12 @@ endmodule
 **Logic symbol & Truthtable**
 
 **RTL realization Output:** 
+
 ![Screenshot 2024-04-03 210519](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/b113887a-9711-4cc6-a370-65011076d102)
 
 
 **RTL**
+
 ![Screenshot 2024-04-03 210033](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/91e6f5d3-07b5-4f9e-8304-e633aa560a0a)
 
 
@@ -145,10 +151,12 @@ endmodule
 **Logic symbol & Truthtable**
 
 **RTL realization Output:**
+
 ![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/4af553bd-b913-4db8-a3ec-089a9482ad06)
 
 
 **RTL**
+
 ![Screenshot 2024-04-03 211416](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/cd6af132-c459-4b8d-ae94-7acece134f68)
 
 
@@ -166,10 +174,12 @@ module norgate(a,b,f);
 **Logic symbol & Truthtable**
 
 **RTL realization Output:**
+
 ![Screenshot 2024-04-03 212002](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/7cfffafe-e298-41f7-9563-46a1f94f5972)
 
 
 **RTL**
+
 ![Screenshot 2024-04-03 211930](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/cdfb5e64-a652-4bf0-89d8-1d07528a4a42)
 
 
@@ -187,10 +197,12 @@ endmodule
 **Logic symbol & Truthtable**
 
 **RTL realization Output:** 
+
 ![Screenshot 2024-04-03 212819](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/d473eed3-f79f-48cf-a817-df2ec6c0eec2)
 
 
 **RTL**
+
 ![Screenshot 2024-04-03 212735](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/dbf2c102-470c-4de1-93f4-68449fe7390e)
 
 
@@ -208,10 +220,13 @@ endmodule
 **Logic symbol & Truthtable**
 
 **RTL realization Output:** 
-![Screenshot 2024-04-03 213908](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/0a08d115-8fe8-4943-b322-66f16da0ec08)
+
+
 
 
 **RTL**
+
+![Screenshot 2024-04-03 213908](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/0a08d115-8fe8-4943-b322-66f16da0ec08)
 
 **Result:**
 
