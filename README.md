@@ -81,6 +81,9 @@ endmodule
  
 **Logic symbol & Truthtable**
 
+![Screenshot 2024-04-04 111518](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/e333ab21-f7bf-4aa0-8a6b-f69c57451122)
+
+
 **RTL**
 
 ![EX-1 And gates](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/e6d8cd84-a6f9-494a-8dbe-14f5232a24b1)
@@ -104,6 +107,9 @@ endmodule
 
 **Logic symbol & Truthtable**
 
+![Screenshot 2024-04-04 111542](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/7c6f142b-46a3-4e36-a4c7-76008d1b9832)
+
+
 **RTL**
 
 ![Screenshot 2024-04-03 203536](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/18e815c2-415d-48a5-881e-a4073c55509d)
@@ -125,6 +131,9 @@ endmodule
 ```
 
 **Logic symbol & Truthtable**
+
+![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/19d8cb59-7eab-4f7b-a45d-296947b83146)
+
 
 **RTL** 
 
@@ -150,6 +159,9 @@ endmodule
 
 **Logic symbol & Truthtable**
 
+![Screenshot 2024-04-04 111602](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/a0137613-8911-48f3-b17b-8f2829320975)
+
+
 **RTL**
 
 ![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/4af553bd-b913-4db8-a3ec-089a9482ad06)
@@ -172,6 +184,9 @@ module norgate(a,b,f);
  endmodule 
 ```
 **Logic symbol & Truthtable**
+
+![Screenshot 2024-04-04 111611](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/eb93295d-0d69-4b8f-bedd-99ec4f99c4aa)
+
 
 **RTL**
 
@@ -196,6 +211,9 @@ endmodule
 ```
 **Logic symbol & Truthtable**
 
+![Screenshot 2024-04-04 111554](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/dfcd8129-dc9c-47bf-9dc1-8d34142f0f81)
+
+
 **RTL** 
 
 ![Screenshot 2024-04-03 212819](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/d473eed3-f79f-48cf-a817-df2ec6c0eec2)
@@ -219,6 +237,9 @@ endmodule
 ```
 **Logic symbol & Truthtable**
 
+![Screenshot 2024-04-04 111636](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/ed25b34e-8a78-4fd1-9b9b-86894a498f7d)
+
+
 **RTL**
 
 ![Screenshot 2024-04-03 213908](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/0a08d115-8fe8-4943-b322-66f16da0ec08)
@@ -230,5 +251,6 @@ endmodule
 
 
 **Result:**
+Thus,truth table of logic gates in Quartus II using Verilog programming is executed successfully and verified 
 
 
