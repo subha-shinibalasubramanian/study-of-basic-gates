@@ -70,14 +70,8 @@ Y= A⊕B
 ## AND GATE
 
 **PROGRAM**
-```
-module and12(a,b,c); 
-    input a; 
-    input b; 
-    output c; 
-    assign c = a & b; 
-endmodule 
-```
+![Screenshot 2024-04-10 133440](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/ea8256d6-9793-43aa-9599-8edb471afa27)
+
  
 **Logic symbol & Truthtable**
 
@@ -96,14 +90,8 @@ endmodule
 ## OR GATE
 
 **PROGRAM**
-```
-module orgate(a,b,d); 
-    input a; 
-    input b; 
-    output d; 
-    assign d = a | b; 
-endmodule 
-```
+![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/ddeb460c-e5f3-45b6-a115-169e4397563c)
+
 
 **Logic symbol & Truthtable**
 
@@ -122,13 +110,8 @@ endmodule
 ## NOT GATE
 
 **PROGRAM**
-```
-module notgate(a,g); 
-    input a; 
-    output g; 
-    assign g = ~a; 
-endmodule  
-```
+![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/1cad371c-4463-4d9d-a033-bdad05e1b6d1)
+
 
 **Logic symbol & Truthtable**
 
@@ -148,14 +131,8 @@ endmodule
 ## NAND GATE
 
 **PROGRAM**
-```
-module nandgate(a,b,e);  
-input a;  
-input b;  
-output e; 
-assign e = ~(a & b);  
-endmodule
-```
+![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/d24d2a06-0780-4e5d-8f4f-5cd5825b96a0)
+
 
 **Logic symbol & Truthtable**
 
@@ -175,14 +152,7 @@ endmodule
 ## NOR GATE
 
 **PROGRAM**
-```
-module norgate(a,b,f); 
- input a; 
- input b; 
- output f;
- assign f = ~(a | b);
- endmodule 
-```
+
 **Logic symbol & Truthtable**
 
 ![Screenshot 2024-04-04 111611](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/eb93295d-0d69-4b8f-bedd-99ec4f99c4aa)
