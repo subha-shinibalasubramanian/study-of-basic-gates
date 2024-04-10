@@ -200,6 +200,7 @@ Y= A⊕B
 ## EX-NOR
 
 **PROGRAM**
+
 ![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/395f90c6-e3da-451d-baa9-93e89af26ad9)
 
 **Logic symbol & Truthtable**
