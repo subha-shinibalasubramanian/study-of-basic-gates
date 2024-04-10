@@ -1,6 +1,7 @@
 ### EX-1 
-<p align="centre">IMPLEMENTATION OF BASIC LOGIC GATES   
-**DATE:**
+<p align="center">IMPLEMENTATION OF BASIC LOGIC GATES        
+
+ **DATE:**
 
 **AIM:** 
 
