@@ -1,4 +1,4 @@
-### EX-1                      IMPLEMENTATION OF BASIC LOGIC GATES   
+### EX-1                                                              ###     IMPLEMENTATION OF BASIC LOGIC GATES   
 **DATE:**
 
 **AIM:** 
