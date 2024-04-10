@@ -157,7 +157,8 @@ Y= A⊕B
 
 **PROGRAM**
 
-![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/a87e9991-fe92-4b69-9991-90a54f5bb68f)
+![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/bbc077de-ee0e-446b-a62e-7117b5221b51)
+
 
 **Logic symbol & Truthtable**
 
