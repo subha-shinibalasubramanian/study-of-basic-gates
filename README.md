@@ -70,6 +70,7 @@ Y= A⊕B
 ## AND GATE
 
 **PROGRAM**
+
 ![Screenshot 2024-04-10 133440](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/ea8256d6-9793-43aa-9599-8edb471afa27)
 
  
@@ -90,6 +91,7 @@ Y= A⊕B
 ## OR GATE
 
 **PROGRAM**
+
 ![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/ddeb460c-e5f3-45b6-a115-169e4397563c)
 
 
@@ -110,6 +112,7 @@ Y= A⊕B
 ## NOT GATE
 
 **PROGRAM**
+
 ![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/1cad371c-4463-4d9d-a033-bdad05e1b6d1)
 
 
@@ -131,6 +134,7 @@ Y= A⊕B
 ## NAND GATE
 
 **PROGRAM**
+
 ![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/d24d2a06-0780-4e5d-8f4f-5cd5825b96a0)
 
 
@@ -153,6 +157,8 @@ Y= A⊕B
 
 **PROGRAM**
 
+![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/a87e9991-fe92-4b69-9991-90a54f5bb68f)
+
 **Logic symbol & Truthtable**
 
 ![Screenshot 2024-04-04 111611](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/eb93295d-0d69-4b8f-bedd-99ec4f99c4aa)
@@ -171,14 +177,10 @@ Y= A⊕B
 ## EX-OR GATE 
 
 **PROGRAM**
-```
-module xorgate(a,b,h); 
- input a; 
-input b; 
-output h; 
-assign h = a^ b; 
-endmodule
-```
+
+![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/d286b753-55ac-4244-a3bd-9b43f11fab22)
+
+
 **Logic symbol & Truthtable**
 
 ![Screenshot 2024-04-04 111554](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/dfcd8129-dc9c-47bf-9dc1-8d34142f0f81)
@@ -197,14 +199,8 @@ endmodule
 ## EX-NOR
 
 **PROGRAM**
-```
-module xnorgate(a,b,i);  
-input a; 
-input b; 
-output i; 
-assign i = ~(a ^ b); 
-endmodule 
-```
+![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/395f90c6-e3da-451d-baa9-93e89af26ad9)
+
 **Logic symbol & Truthtable**
 
 ![Screenshot 2024-04-04 111636](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/ed25b34e-8a78-4fd1-9b9b-86894a498f7d)
