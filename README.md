@@ -1,5 +1,5 @@
 ### EX-1 
-<p align="center">IMPLEMENTATION OF BASIC LOGIC GATES        
+<p align="center"><b>IMPLEMENTATION OF BASIC LOGIC GATES    </b>    
 
  **DATE:**
 
