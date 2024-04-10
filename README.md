@@ -1,4 +1,5 @@
-### study-of-basic-gates
+### EX-1                      IMPLEMENTATION OF BASIC LOGIC GATES   
+**DATE:**
 
 **AIM:** 
 
